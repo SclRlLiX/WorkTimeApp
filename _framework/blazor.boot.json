@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WorkTimeCalc",
   "resources": {
-    "hash": "sha256-76PmzJc0/qhr9LDaH+WR+kgvyM9rxe6LaUB6H6I3VeU=",
+    "hash": "sha256-CFoI70fsCX2w6+TDPBfMBHKcLqueImD7m2p6GpqciP0=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.k9zvegxqvw.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
     },
@@ -48,7 +48,7 @@
       "System.Text.Encodings.Web.wasm": "sha256-NnePSWCgIId8nOPCgziTKhDyG6uCBs+3W6fazrWLoUA=",
       "System.Text.Json.wasm": "sha256-Parnf2p7TaYhLJUZobM4X2HMf1l5723i/E1q+7ElduI=",
       "System.Text.RegularExpressions.wasm": "sha256-W20q/uEUAv0A+F6irUkY0pCZJo76wNuWpz3XgcLFB2M=",
-      "WorkTimeCalc.wasm": "sha256-igkzyNZRE2nrEfYrCF3Zxcuv+EtXgonMe7nmD+KzoE4="
+      "WorkTimeCalc.wasm": "sha256-aV9YRig272rPTVaZNhDDCfH6kS9ZILIS+HUPam7aqkw="
     }
   },
   "cacheBootResources": true,
