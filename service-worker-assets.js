@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-7PM3FkB\/MGmb7ughlM85zZtmGiXUuQ5Bll3\/P3SH1Uc=",
+      "hash": "sha256-6pNHQW5JkiCM3WBjZdkAdsVFopp6WvdNL16c3NRCcGI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-NPyuBmXhTGYkjuBQ5NNretzTuii\/ev2XKwzGIYC36Nw=",
+      "hash": "sha256-D+bwWgreQVW77doKF3eCfIs99RFfoWIQABhy3Rn3nFk=",
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
@@ -161,23 +161,19 @@
       "url": "_framework\/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-aV9YRig272rPTVaZNhDDCfH6kS9ZILIS+HUPam7aqkw=",
+      "hash": "sha256-l71Kf8lU1PM1N553XE53cchtToj9uaWP9EYcukFIJeI=",
       "url": "_framework\/WorkTimeCalc.wasm"
     },
     {
-      "hash": "sha256-zElsr0iJHoWDiBaDbiMc7xZ5Uf9Nvqhw5M4xVBrOS\/Y=",
-      "url": "WorkTimeCalc.styles.css"
-    },
-    {
-      "hash": "sha256-JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=",
+      "hash": "sha256-dWc3K4fHWOQWS8yiC7uQv2dyIT3sjHj7yufn2ZMKKmQ=",
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "hash": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
-      "hash": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "hash": "sha256-8SM4U2NQpCLGTQLW5D\/x3qSTwxVq2CP+GXYc3V1WwFs=",
       "url": "css\/bootstrap\/bootstrap.min.css.map"
     },
     {
@@ -193,8 +189,16 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-UwLm042eQstkEHQFxBt7y7cYgaUHpscr3J6XY8yrU34=",
+      "hash": "sha256-\/CT7HP74i3CI+WDTV3BnIE8J0YuYeJCai0\/ayuJHnrA=",
       "url": "index.html"
+    },
+    {
+      "hash": "sha256-3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=",
+      "url": "js\/Bootstrap\/bootstrap.min.js"
+    },
+    {
+      "hash": "sha256-ZI01e\/ns473GKvACG4McggJdxvFfFIw4xspwQiG8Ye4=",
+      "url": "js\/Bootstrap\/bootstrap.min.js.map"
     },
     {
       "hash": "sha256-ANWT6KPjE3O6eSoRJzfQLW0MUlzsAhY6LaM9ms9xYAs=",
@@ -205,5 +209,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "qdLxLhvU"
+  "version": "k\/YcNdZl"
 };

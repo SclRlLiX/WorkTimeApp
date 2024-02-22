@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WorkTimeCalc",
   "resources": {
-    "hash": "sha256-CFoI70fsCX2w6+TDPBfMBHKcLqueImD7m2p6GpqciP0=",
+    "hash": "sha256-QT5alqdIYw2whp+MIFTyl/cUQbV53YcQkOclxzIqVoM=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.k9zvegxqvw.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Microsoft.AspNetCore.Components.wasm": "sha256-NPyuBmXhTGYkjuBQ5NNretzTuii/ev2XKwzGIYC36Nw=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-D+bwWgreQVW77doKF3eCfIs99RFfoWIQABhy3Rn3nFk=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-7KkqwwQtcN+NHevIKYhJ2gLZJa3f0aShCl2ldtegyXw=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-jrdFRjrF1131MZ3HGQVsI3dX8cLdZvPz85lsBltxjSM=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-87sn2TYqgdZ95sXmavjKEzoEfMgHnYQ9LOvnMX+aZcI=",
@@ -48,7 +48,7 @@
       "System.Text.Encodings.Web.wasm": "sha256-NnePSWCgIId8nOPCgziTKhDyG6uCBs+3W6fazrWLoUA=",
       "System.Text.Json.wasm": "sha256-Parnf2p7TaYhLJUZobM4X2HMf1l5723i/E1q+7ElduI=",
       "System.Text.RegularExpressions.wasm": "sha256-W20q/uEUAv0A+F6irUkY0pCZJo76wNuWpz3XgcLFB2M=",
-      "WorkTimeCalc.wasm": "sha256-aV9YRig272rPTVaZNhDDCfH6kS9ZILIS+HUPam7aqkw="
+      "WorkTimeCalc.wasm": "sha256-l71Kf8lU1PM1N553XE53cchtToj9uaWP9EYcukFIJeI="
     }
   },
   "cacheBootResources": true,
