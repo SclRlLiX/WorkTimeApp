@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WorkTimeCalc",
   "resources": {
-    "hash": "sha256-hg6A2davTYOp2Igv9KHQLHssF8kFFm8aF6oAYrdHcNU=",
+    "hash": "sha256-6WRRD/eUqkdruP7MH3/eIq42hNm8Lntj7V6XoW1T5Vo=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.k9zvegxqvw.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
     },
@@ -41,14 +41,14 @@
       "System.Net.Http.Json.wasm": "sha256-OokrkDWO1QqPoDdNYATXqmg/QjcZlvX4mFUl2nQsEus=",
       "System.Net.Http.wasm": "sha256-Y1j94Tjt1bpOz4jRl8s4omRsXVNGymGqq5muEbVG4+I=",
       "System.Net.Primitives.wasm": "sha256-vrxcafwRdBO97DDgX/hMZoKmutr7B8vL8NSYBIeBIvE=",
-      "System.Private.CoreLib.wasm": "sha256-pCtVmbQzWBnOAjDH1czjK/ZD6iyqiTdNZNHTA6CFpGQ=",
+      "System.Private.CoreLib.wasm": "sha256-F7n/oXoV6fl0LuKu6EjdMm8K+fRQQxAZ2i88IzqV6VI=",
       "System.Private.Uri.wasm": "sha256-L8m30jOMe5Z6BnjjKmf++wHOTRyhAoemWxbOHPAp/fM=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-ycxtr4GQ01jpMX2HNlyDi/PdRSz1RFbrAfBdFnU1ad8=",
       "System.Runtime.wasm": "sha256-3wLNH4B7WoAnTMinV4CT6Ya4HdWwwBYsP2fgpRSNSmk=",
       "System.Text.Encodings.Web.wasm": "sha256-NnePSWCgIId8nOPCgziTKhDyG6uCBs+3W6fazrWLoUA=",
       "System.Text.Json.wasm": "sha256-Parnf2p7TaYhLJUZobM4X2HMf1l5723i/E1q+7ElduI=",
       "System.Text.RegularExpressions.wasm": "sha256-W20q/uEUAv0A+F6irUkY0pCZJo76wNuWpz3XgcLFB2M=",
-      "WorkTimeCalc.wasm": "sha256-ihbLXO37912O6kFnEMZs4t+w0iphndLoTHNo0twlLWE="
+      "WorkTimeCalc.wasm": "sha256-5p9pSTqd96Ej4mr7HvYOCRlE1D2ECCR62eor0UQcH8c="
     }
   },
   "cacheBootResources": true,

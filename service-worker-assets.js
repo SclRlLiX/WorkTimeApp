@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-W+28eehDT072ZUrLqcSXAVbBvQCtFvMNA\/21CMcDcfk=",
+      "hash": "sha256-bGIqswuOUT+ZYqpj991Y2xJTiKsrWZj\/tS99eY+9k6M=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -133,7 +133,7 @@
       "url": "_framework\/System.Net.Primitives.wasm"
     },
     {
-      "hash": "sha256-pCtVmbQzWBnOAjDH1czjK\/ZD6iyqiTdNZNHTA6CFpGQ=",
+      "hash": "sha256-F7n\/oXoV6fl0LuKu6EjdMm8K+fRQQxAZ2i88IzqV6VI=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -161,11 +161,11 @@
       "url": "_framework\/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-ihbLXO37912O6kFnEMZs4t+w0iphndLoTHNo0twlLWE=",
+      "hash": "sha256-5p9pSTqd96Ej4mr7HvYOCRlE1D2ECCR62eor0UQcH8c=",
       "url": "_framework\/WorkTimeCalc.wasm"
     },
     {
-      "hash": "sha256-dWc3K4fHWOQWS8yiC7uQv2dyIT3sjHj7yufn2ZMKKmQ=",
+      "hash": "sha256-JkxxirsHGGccHlHHnIOT\/Qw\/CB09KZ0\/dDoUxFVB6OA=",
       "url": "css\/app.css"
     },
     {
@@ -209,5 +209,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "JPPmYy6g"
+  "version": "KY6AkPb6"
 };
