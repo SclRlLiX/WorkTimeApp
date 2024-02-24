@@ -2,6 +2,10 @@ html, body {
     font-family: "Quicksand", sans-serif;
 }
 
+select {
+    text-align-last: center;
+  }
+
 .container-sm {
     max-width: 1024px;
 }
